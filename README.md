@@ -6,8 +6,8 @@
 - 😄 Pronouns: k~i~m~i~n~g~iTech
 - ⚡ Fun fact: Did you know? The term "bug" in software development actually has its origins in a real insect! In 1947,
      computer scientist Grace Hopper and her team found a moth causing a malfunction in the Mark II computer at Harvard University.
--    They recorded the incident as the "first actual case of bug being found" and the term stuck around ever since.
--    Nowadays, debugging has become a crucial part of coding!
+     They recorded the incident as the "first actual case of bug being found" and the term stuck around ever since.
+     Nowadays, debugging has become a crucial part of coding!
 
 <!---
 kimingi318/kimingi318 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
